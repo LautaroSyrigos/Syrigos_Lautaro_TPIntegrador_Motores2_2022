@@ -1,0 +1,257 @@
+fileFormatVersion: 2
+guid: 766f289a44eabd64abbe69cb38fed6e8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5393920821339400114
+    second: NES_Sprites_0
+  - first:
+      213: -1471033563951659799
+    second: NES_Sprites_1
+  - first:
+      213: -3853571480066629628
+    second: NES_Sprites_2
+  - first:
+      213: 4483354842649556578
+    second: NES_Sprites_3
+  - first:
+      213: 5289989391798327420
+    second: NES_Sprites_4
+  - first:
+      213: -3420396008790979237
+    second: NES_Sprites_5
+  - first:
+      213: -5900212919727121576
+    second: NES_Sprites_6
+  - first:
+      213: -3786502254567752279
+    second: NES_Sprites_7
+  - first:
+      213: 1684203628440706059
+    second: NES_Sprites_8
+  - first:
+      213: -1995504966424361270
+    second: NES_Sprites_9
+  - first:
+      213: 6724110340329840387
+    second: NES_Sprites_10
+  - first:
+      213: 3592994257287755444
+    second: NES_Sprites_11
+  - first:
+      213: -9046050833201194278
+    second: NES_Sprites_12
+  - first:
+      213: -2287225519085138087
+    second: NES_Sprites_13
+  - first:
+      213: -7941087592503963902
+    second: NES_Sprites_14
+  - first:
+      213: 2871561166023204508
+    second: NES_Sprites_15
+  - first:
+      213: 2678796670210823913
+    second: NES_Sprites_16
+  - first:
+      213: -982927530197951662
+    second: NES_Sprites_17
+  - first:
+      213: 6139023996310581769
+    second: NES_Sprites_18
+  - first:
+      213: -3139341490052164271
+    second: NES_Sprites_19
+  - first:
+      213: -6772404548829930667
+    second: NES_Sprites_20
+  - first:
+      213: 7279649253188061349
+    second: NES_Sprites_21
+  - first:
+      213: -6236594678291668260
+    second: NES_Sprites_22
+  - first:
+      213: 8615696107940347884
+    second: NES_Sprites_23
+  - first:
+      213: -566453715138488024
+    second: NES_Sprites_24
+  - first:
+      213: 644207068515427792
+    second: NES_Sprites_25
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NES_Sprites_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e485b795791f425b0800000000000000
+      internalID: -5393920821339400114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Sprites_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e40cf774c6d59be0800000000000000
+      internalID: -1471033563951659799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Sprites_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4006d0ee72d558ac0800000000000000
+      internalID: -3853571480066629628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

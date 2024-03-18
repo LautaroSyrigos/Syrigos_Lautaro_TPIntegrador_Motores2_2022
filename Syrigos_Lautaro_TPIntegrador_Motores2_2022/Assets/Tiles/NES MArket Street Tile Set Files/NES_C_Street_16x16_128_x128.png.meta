@@ -1,0 +1,1697 @@
+fileFormatVersion: 2
+guid: b62b24a2e69664844ba40e2f9ca6f3e9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1666106965982687203
+    second: NES_C_Street_16x16_128_x128_0
+  - first:
+      213: -9113700882769084079
+    second: NES_C_Street_16x16_128_x128_1
+  - first:
+      213: -4423478396890579221
+    second: NES_C_Street_16x16_128_x128_2
+  - first:
+      213: 3639836436782532734
+    second: NES_C_Street_16x16_128_x128_3
+  - first:
+      213: 949816094267983389
+    second: NES_C_Street_16x16_128_x128_4
+  - first:
+      213: -3600809042604217506
+    second: NES_C_Street_16x16_128_x128_5
+  - first:
+      213: -4898493488593602180
+    second: NES_C_Street_16x16_128_x128_6
+  - first:
+      213: 5936401632834117630
+    second: NES_C_Street_16x16_128_x128_7
+  - first:
+      213: -4114651467046490737
+    second: NES_C_Street_16x16_128_x128_8
+  - first:
+      213: -8920550335216042059
+    second: NES_C_Street_16x16_128_x128_9
+  - first:
+      213: -5088558236853324222
+    second: NES_C_Street_16x16_128_x128_10
+  - first:
+      213: -3358460334876738619
+    second: NES_C_Street_16x16_128_x128_11
+  - first:
+      213: -2769361430653929200
+    second: NES_C_Street_16x16_128_x128_12
+  - first:
+      213: -814722346738881076
+    second: NES_C_Street_16x16_128_x128_13
+  - first:
+      213: -49601091306676420
+    second: NES_C_Street_16x16_128_x128_14
+  - first:
+      213: -4500125545573154768
+    second: NES_C_Street_16x16_128_x128_15
+  - first:
+      213: 1426037988481447213
+    second: NES_C_Street_16x16_128_x128_16
+  - first:
+      213: -3269972820684793842
+    second: NES_C_Street_16x16_128_x128_17
+  - first:
+      213: -6968342269596519430
+    second: NES_C_Street_16x16_128_x128_18
+  - first:
+      213: -5277504800535066208
+    second: NES_C_Street_16x16_128_x128_19
+  - first:
+      213: -6284387379846640207
+    second: NES_C_Street_16x16_128_x128_20
+  - first:
+      213: 5482022286468274182
+    second: NES_C_Street_16x16_128_x128_21
+  - first:
+      213: 4893535371481080640
+    second: NES_C_Street_16x16_128_x128_22
+  - first:
+      213: 2915713047914864465
+    second: NES_C_Street_16x16_128_x128_23
+  - first:
+      213: -1702703761259846637
+    second: NES_C_Street_16x16_128_x128_24
+  - first:
+      213: 3468590943693851512
+    second: NES_C_Street_16x16_128_x128_25
+  - first:
+      213: 8304611389971684745
+    second: NES_C_Street_16x16_128_x128_26
+  - first:
+      213: 565845108102780437
+    second: NES_C_Street_16x16_128_x128_27
+  - first:
+      213: -2072586479468521099
+    second: NES_C_Street_16x16_128_x128_28
+  - first:
+      213: -6926583983663047613
+    second: NES_C_Street_16x16_128_x128_29
+  - first:
+      213: 5003155230609031103
+    second: NES_C_Street_16x16_128_x128_30
+  - first:
+      213: -1171600191353060396
+    second: NES_C_Street_16x16_128_x128_31
+  - first:
+      213: -3430685562277145075
+    second: NES_C_Street_16x16_128_x128_32
+  - first:
+      213: 5251947558567283804
+    second: NES_C_Street_16x16_128_x128_33
+  - first:
+      213: -5801086391468097571
+    second: NES_C_Street_16x16_128_x128_34
+  - first:
+      213: -7962961687776928489
+    second: NES_C_Street_16x16_128_x128_35
+  - first:
+      213: -5543246995871708036
+    second: NES_C_Street_16x16_128_x128_36
+  - first:
+      213: 7196197802374768927
+    second: NES_C_Street_16x16_128_x128_37
+  - first:
+      213: -8255845118641760397
+    second: NES_C_Street_16x16_128_x128_38
+  - first:
+      213: 5408209159023795998
+    second: NES_C_Street_16x16_128_x128_39
+  - first:
+      213: -8871224769060307406
+    second: NES_C_Street_16x16_128_x128_40
+  - first:
+      213: 7802385985274929045
+    second: NES_C_Street_16x16_128_x128_41
+  - first:
+      213: 1700764160356633650
+    second: NES_C_Street_16x16_128_x128_42
+  - first:
+      213: 391874751743961878
+    second: NES_C_Street_16x16_128_x128_43
+  - first:
+      213: 5277162006690394635
+    second: NES_C_Street_16x16_128_x128_44
+  - first:
+      213: 6555418264060796022
+    second: NES_C_Street_16x16_128_x128_45
+  - first:
+      213: -8413841948727773685
+    second: NES_C_Street_16x16_128_x128_46
+  - first:
+      213: -2981284030509051704
+    second: NES_C_Street_16x16_128_x128_47
+  - first:
+      213: 8194402460505224558
+    second: NES_C_Street_16x16_128_x128_48
+  - first:
+      213: -8528437439387236486
+    second: NES_C_Street_16x16_128_x128_49
+  - first:
+      213: -2908707203116792912
+    second: NES_C_Street_16x16_128_x128_50
+  - first:
+      213: 8148178779984143314
+    second: NES_C_Street_16x16_128_x128_51
+  - first:
+      213: -2038719665332937308
+    second: NES_C_Street_16x16_128_x128_52
+  - first:
+      213: 9180152433356994639
+    second: NES_C_Street_16x16_128_x128_53
+  - first:
+      213: -2207469109821451005
+    second: NES_C_Street_16x16_128_x128_54
+  - first:
+      213: -7978891139238242376
+    second: NES_C_Street_16x16_128_x128_55
+  - first:
+      213: 4677631207977641707
+    second: NES_C_Street_16x16_128_x128_56
+  - first:
+      213: -9208631918677631947
+    second: NES_C_Street_16x16_128_x128_57
+  - first:
+      213: 6311616330660167357
+    second: NES_C_Street_16x16_128_x128_58
+  - first:
+      213: -7165329228716189168
+    second: NES_C_Street_16x16_128_x128_59
+  - first:
+      213: 7070313035137925789
+    second: NES_C_Street_16x16_128_x128_60
+  - first:
+      213: -876480586251197998
+    second: NES_C_Street_16x16_128_x128_61
+  - first:
+      213: 6914953685980080980
+    second: NES_C_Street_16x16_128_x128_62
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NES_C_Street_16x16_128_x128_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3efa33945733f1710800000000000000
+      internalID: 1666106965982687203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_C_Street_16x16_128_x128_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15182656551a58180800000000000000
+      internalID: -9113700882769084079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_C_Street_16x16_128_x128_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beef8b9a5d5ac92c0800000000000000
+      internalID: -4423478396890579221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_C_Street_16x16_128_x128_3
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7842fe54fb438230800000000000000
+      internalID: 3639836436782532734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_C_Street_16x16_128_x128_4
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d16cac494bc6e2d00800000000000000
+      internalID: 949816094267983389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_C_Street_16x16_128_x128_5
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5baf8fe04b570ec0800000000000000
+      internalID: -3600809042604217506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_C_Street_16x16_128_x128_6
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7970dd102e050cb0800000000000000
+      internalID: -4898493488593602180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_C_Street_16x16_128_x128_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eff502925d5526250800000000000000
+      internalID: 5936401632834117630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_C_Street_16x16_128_x128_8
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8d67248a42d5e6c0800000000000000
+      internalID: -4114651467046490737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_C_Street_16x16_128_x128_9
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bfb474bbb6d33480800000000000000
+      internalID: -8920550335216042059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_C_Street_16x16_128_x128_10
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24638717e3fc169b0800000000000000
+      internalID: -5088558236853324222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_C_Street_16x16_128_x128_11
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cbbe6b8e1a5461d0800000000000000
+      internalID: -3358460334876738619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_C_Street_16x16_128_x128_12
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 019743793704199d0800000000000000
+      internalID: -2769361430653929200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_C_Street_16x16_128_x128_13
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccd6e0c975681b4f0800000000000000
+      internalID: -814722346738881076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_C_Street_16x16_128_x128_14
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3f913cf118cf4ff0800000000000000
+      internalID: -49601091306676420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_C_Street_16x16_128_x128_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0308373b8a75c81c0800000000000000
+      internalID: -4500125545573154768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_C_Street_16x16_128_x128_16
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2536abbefd4ac310800000000000000
+      internalID: 1426037988481447213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_C_Street_16x16_128_x128_17
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0896ed6b09be92d0800000000000000
+      internalID: -3269972820684793842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_C_Street_16x16_128_x128_18
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af33c5b20a97b4f90800000000000000
+      internalID: -6968342269596519430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_C_Street_16x16_128_x128_19
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a940b7685982c6b0800000000000000
+      internalID: -5277504800535066208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_C_Street_16x16_128_x128_20
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bd0b4169fe59c8a0800000000000000
+      internalID: -6284387379846640207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_C_Street_16x16_128_x128_21
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60857bb793e041c40800000000000000
+      internalID: 5482022286468274182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_C_Street_16x16_128_x128_22
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04360f84e7459e340800000000000000
+      internalID: 4893535371481080640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_C_Street_16x16_128_x128_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15fdfe7a191b67820800000000000000
+      internalID: 2915713047914864465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_C_Street_16x16_128_x128_24
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 314a26053f7ce58e0800000000000000
+      internalID: -1702703761259846637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_C_Street_16x16_128_x128_25
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87b420ef519e22030800000000000000
+      internalID: 3468590943693851512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_C_Street_16x16_128_x128_26
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98ddce83f08ef3370800000000000000
+      internalID: 8304611389971684745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_C_Street_16x16_128_x128_27
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 516db5ab0294ad700800000000000000
+      internalID: 565845108102780437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_C_Street_16x16_128_x128_28
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5795005f391bc33e0800000000000000
+      internalID: -2072586479468521099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_C_Street_16x16_128_x128_29
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34c9ad2c094dfdf90800000000000000
+      internalID: -6926583983663047613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_C_Street_16x16_128_x128_30
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbfb694ac27ce6540800000000000000
+      internalID: 5003155230609031103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_C_Street_16x16_128_x128_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d30f9755d3adbfe0800000000000000
+      internalID: -1171600191353060396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_C_Street_16x16_128_x128_32
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d06d86c58a1c360d0800000000000000
+      internalID: -3430685562277145075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_C_Street_16x16_128_x128_33
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5c026f7a7aa2e840800000000000000
+      internalID: 5251947558567283804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_C_Street_16x16_128_x128_34
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddff03599a66e7fa0800000000000000
+      internalID: -5801086391468097571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_C_Street_16x16_128_x128_35
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71dd208d880ed7190800000000000000
+      internalID: -7962961687776928489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_C_Street_16x16_128_x128_36
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7cc0d40a3e6213b0800000000000000
+      internalID: -5543246995871708036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_C_Street_16x16_128_x128_37
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f19aeff26c70ed360800000000000000
+      internalID: 7196197802374768927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_C_Street_16x16_128_x128_38
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37717be1b985d6d80800000000000000
+      internalID: -8255845118641760397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_C_Street_16x16_128_x128_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1f90a28391dd0b40800000000000000
+      internalID: 5408209159023795998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_C_Street_16x16_128_x128_40
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23e7385031413e480800000000000000
+      internalID: -8871224769060307406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_C_Street_16x16_128_x128_41
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59f5cccf6b4a74c60800000000000000
+      internalID: 7802385985274929045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_C_Street_16x16_128_x128_42
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23cc5c82ef35a9710800000000000000
+      internalID: 1700764160356633650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_C_Street_16x16_128_x128_43
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61ba42ea208307500800000000000000
+      internalID: 391874751743961878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_C_Street_16x16_128_x128_44
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b02f7fea2ee3c3940800000000000000
+      internalID: 5277162006690394635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_C_Street_16x16_128_x128_45
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c9377dd2689fa50800000000000000
+      internalID: 6555418264060796022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_C_Street_16x16_128_x128_46
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b06fcc973570c3b80800000000000000
+      internalID: -8413841948727773685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_C_Street_16x16_128_x128_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c096f248f950a6d0800000000000000
+      internalID: -2981284030509051704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_C_Street_16x16_128_x128_48
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e65300d3f9d58b170800000000000000
+      internalID: 8194402460505224558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_C_Street_16x16_128_x128_49
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a778e20a557e4a980800000000000000
+      internalID: -8528437439387236486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_C_Street_16x16_128_x128_50
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b38a92b53232a7d0800000000000000
+      internalID: -2908707203116792912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_C_Street_16x16_128_x128_51
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d3a453fd65241170800000000000000
+      internalID: 8148178779984143314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_C_Street_16x16_128_x128_52
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ad1a37144305b3e0800000000000000
+      internalID: -2038719665332937308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_C_Street_16x16_128_x128_53
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f487e26eff3766f70800000000000000
+      internalID: 9180152433356994639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_C_Street_16x16_128_x128_54
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 305d1705a8e7d51e0800000000000000
+      internalID: -2207469109821451005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_C_Street_16x16_128_x128_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b7513868c8454190800000000000000
+      internalID: -7978891139238242376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_C_Street_16x16_128_x128_56
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be6e9cdecc84ae040800000000000000
+      internalID: 4677631207977641707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_C_Street_16x16_128_x128_57
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53c55e33f0e543080800000000000000
+      internalID: -9208631918677631947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_C_Street_16x16_128_x128_58
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbebd83cc9d579750800000000000000
+      internalID: 6311616330660167357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_C_Street_16x16_128_x128_59
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01ad5afa703af8c90800000000000000
+      internalID: -7165329228716189168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_C_Street_16x16_128_x128_60
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d92c53ece3cce1260800000000000000
+      internalID: 7070313035137925789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_C_Street_16x16_128_x128_61
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d1a8f3fc8d16d3f0800000000000000
+      internalID: -876480586251197998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_C_Street_16x16_128_x128_62
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45bee1b8db9d6ff50800000000000000
+      internalID: 6914953685980080980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      NES_C_Street_16x16_128_x128_32: -3430685562277145075
+      NES_C_Street_16x16_128_x128_12: -2769361430653929200
+      NES_C_Street_16x16_128_x128_42: 1700764160356633650
+      NES_C_Street_16x16_128_x128_51: 8148178779984143314
+      NES_C_Street_16x16_128_x128_43: 391874751743961878
+      NES_C_Street_16x16_128_x128_38: -8255845118641760397
+      NES_C_Street_16x16_128_x128_30: 5003155230609031103
+      NES_C_Street_16x16_128_x128_22: 4893535371481080640
+      NES_C_Street_16x16_128_x128_25: 3468590943693851512
+      NES_C_Street_16x16_128_x128_47: -2981284030509051704
+      NES_C_Street_16x16_128_x128_9: -8920550335216042059
+      NES_C_Street_16x16_128_x128_1: -9113700882769084079
+      NES_C_Street_16x16_128_x128_37: 7196197802374768927
+      NES_C_Street_16x16_128_x128_3: 3639836436782532734
+      NES_C_Street_16x16_128_x128_17: -3269972820684793842
+      NES_C_Street_16x16_128_x128_5: -3600809042604217506
+      NES_C_Street_16x16_128_x128_44: 5277162006690394635
+      NES_C_Street_16x16_128_x128_6: -4898493488593602180
+      NES_C_Street_16x16_128_x128_50: -2908707203116792912
+      NES_C_Street_16x16_128_x128_54: -2207469109821451005
+      NES_C_Street_16x16_128_x128_20: -6284387379846640207
+      NES_C_Street_16x16_128_x128_10: -5088558236853324222
+      NES_C_Street_16x16_128_x128_11: -3358460334876738619
+      NES_C_Street_16x16_128_x128_33: 5251947558567283804
+      NES_C_Street_16x16_128_x128_34: -5801086391468097571
+      NES_C_Street_16x16_128_x128_36: -5543246995871708036
+      NES_C_Street_16x16_128_x128_39: 5408209159023795998
+      NES_C_Street_16x16_128_x128_49: -8528437439387236486
+      NES_C_Street_16x16_128_x128_55: -7978891139238242376
+      NES_C_Street_16x16_128_x128_13: -814722346738881076
+      NES_C_Street_16x16_128_x128_57: -9208631918677631947
+      NES_C_Street_16x16_128_x128_61: -876480586251197998
+      NES_C_Street_16x16_128_x128_27: 565845108102780437
+      NES_C_Street_16x16_128_x128_24: -1702703761259846637
+      NES_C_Street_16x16_128_x128_28: -2072586479468521099
+      NES_C_Street_16x16_128_x128_23: 2915713047914864465
+      NES_C_Street_16x16_128_x128_48: 8194402460505224558
+      NES_C_Street_16x16_128_x128_59: -7165329228716189168
+      NES_C_Street_16x16_128_x128_56: 4677631207977641707
+      NES_C_Street_16x16_128_x128_14: -49601091306676420
+      NES_C_Street_16x16_128_x128_8: -4114651467046490737
+      NES_C_Street_16x16_128_x128_31: -1171600191353060396
+      NES_C_Street_16x16_128_x128_18: -6968342269596519430
+      NES_C_Street_16x16_128_x128_19: -5277504800535066208
+      NES_C_Street_16x16_128_x128_41: 7802385985274929045
+      NES_C_Street_16x16_128_x128_16: 1426037988481447213
+      NES_C_Street_16x16_128_x128_45: 6555418264060796022
+      NES_C_Street_16x16_128_x128_0: 1666106965982687203
+      NES_C_Street_16x16_128_x128_53: 9180152433356994639
+      NES_C_Street_16x16_128_x128_46: -8413841948727773685
+      NES_C_Street_16x16_128_x128_35: -7962961687776928489
+      NES_C_Street_16x16_128_x128_7: 5936401632834117630
+      NES_C_Street_16x16_128_x128_58: 6311616330660167357
+      NES_C_Street_16x16_128_x128_60: 7070313035137925789
+      NES_C_Street_16x16_128_x128_21: 5482022286468274182
+      NES_C_Street_16x16_128_x128_29: -6926583983663047613
+      NES_C_Street_16x16_128_x128_2: -4423478396890579221
+      NES_C_Street_16x16_128_x128_15: -4500125545573154768
+      NES_C_Street_16x16_128_x128_26: 8304611389971684745
+      NES_C_Street_16x16_128_x128_62: 6914953685980080980
+      NES_C_Street_16x16_128_x128_52: -2038719665332937308
+      NES_C_Street_16x16_128_x128_40: -8871224769060307406
+      NES_C_Street_16x16_128_x128_4: 949816094267983389
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

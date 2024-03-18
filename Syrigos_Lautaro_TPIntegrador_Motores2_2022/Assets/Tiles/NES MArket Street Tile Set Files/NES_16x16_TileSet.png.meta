@@ -1,0 +1,3072 @@
+fileFormatVersion: 2
+guid: 62f4197822a79b34cb02dbdaf8f505f1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7117615532332385500
+    second: NES_16x16_TileSet_0
+  - first:
+      213: -4459621743214957880
+    second: NES_16x16_TileSet_1
+  - first:
+      213: -6295383402096646396
+    second: NES_16x16_TileSet_2
+  - first:
+      213: -3558175394211628318
+    second: NES_16x16_TileSet_3
+  - first:
+      213: 1659899237664457886
+    second: NES_16x16_TileSet_4
+  - first:
+      213: -7481181270914449091
+    second: NES_16x16_TileSet_5
+  - first:
+      213: 8347692600544930368
+    second: NES_16x16_TileSet_6
+  - first:
+      213: 2493221459351636978
+    second: NES_16x16_TileSet_7
+  - first:
+      213: 1074536900695693072
+    second: NES_16x16_TileSet_8
+  - first:
+      213: 1390470957935753879
+    second: NES_16x16_TileSet_9
+  - first:
+      213: -3286259784184675620
+    second: NES_16x16_TileSet_10
+  - first:
+      213: -5662515905140289823
+    second: NES_16x16_TileSet_11
+  - first:
+      213: 1082577949772134484
+    second: NES_16x16_TileSet_12
+  - first:
+      213: 5712949206634949669
+    second: NES_16x16_TileSet_13
+  - first:
+      213: 2429843360912060937
+    second: NES_16x16_TileSet_14
+  - first:
+      213: -5964793642103866257
+    second: NES_16x16_TileSet_15
+  - first:
+      213: -1498026099211013676
+    second: NES_16x16_TileSet_16
+  - first:
+      213: -4241717043021126268
+    second: NES_16x16_TileSet_17
+  - first:
+      213: -4241016407203769491
+    second: NES_16x16_TileSet_18
+  - first:
+      213: 7297614721250051637
+    second: NES_16x16_TileSet_19
+  - first:
+      213: 6053313164622356970
+    second: NES_16x16_TileSet_20
+  - first:
+      213: -2361414831527214943
+    second: NES_16x16_TileSet_21
+  - first:
+      213: -8275549417381959569
+    second: NES_16x16_TileSet_22
+  - first:
+      213: -140580163214100986
+    second: NES_16x16_TileSet_23
+  - first:
+      213: 4328063717232000167
+    second: NES_16x16_TileSet_24
+  - first:
+      213: -8508365545709971022
+    second: NES_16x16_TileSet_25
+  - first:
+      213: 4447930619165233983
+    second: NES_16x16_TileSet_26
+  - first:
+      213: 24938559063379284
+    second: NES_16x16_TileSet_27
+  - first:
+      213: 6855196016854585983
+    second: NES_16x16_TileSet_28
+  - first:
+      213: -3608963459994280480
+    second: NES_16x16_TileSet_29
+  - first:
+      213: 4842788838995893297
+    second: NES_16x16_TileSet_30
+  - first:
+      213: 2564878634113607973
+    second: NES_16x16_TileSet_31
+  - first:
+      213: 1395070408534259162
+    second: NES_16x16_TileSet_32
+  - first:
+      213: -5761405990759214196
+    second: NES_16x16_TileSet_33
+  - first:
+      213: -4266099913804476135
+    second: NES_16x16_TileSet_34
+  - first:
+      213: -291775367638086169
+    second: NES_16x16_TileSet_35
+  - first:
+      213: -1024070066268672376
+    second: NES_16x16_TileSet_36
+  - first:
+      213: -9062018620418890245
+    second: NES_16x16_TileSet_37
+  - first:
+      213: 6351237239018293187
+    second: NES_16x16_TileSet_38
+  - first:
+      213: 8515750339326817078
+    second: NES_16x16_TileSet_39
+  - first:
+      213: 4601483928781736222
+    second: NES_16x16_TileSet_40
+  - first:
+      213: -4824964576103736740
+    second: NES_16x16_TileSet_41
+  - first:
+      213: 773831337188519418
+    second: NES_16x16_TileSet_42
+  - first:
+      213: 5058890249902207889
+    second: NES_16x16_TileSet_43
+  - first:
+      213: -6882863153982582131
+    second: NES_16x16_TileSet_44
+  - first:
+      213: 4972164428512443532
+    second: NES_16x16_TileSet_45
+  - first:
+      213: 8348593925419762907
+    second: NES_16x16_TileSet_46
+  - first:
+      213: -5826398328103711023
+    second: NES_16x16_TileSet_47
+  - first:
+      213: 626815917737453514
+    second: NES_16x16_TileSet_48
+  - first:
+      213: 7990890857807990620
+    second: NES_16x16_TileSet_49
+  - first:
+      213: 7646310916133734860
+    second: NES_16x16_TileSet_50
+  - first:
+      213: 2922552128958632120
+    second: NES_16x16_TileSet_51
+  - first:
+      213: 9134899564296132997
+    second: NES_16x16_TileSet_52
+  - first:
+      213: -3969872076735978743
+    second: NES_16x16_TileSet_53
+  - first:
+      213: 2530752420471185457
+    second: NES_16x16_TileSet_54
+  - first:
+      213: 7053950448920528943
+    second: NES_16x16_TileSet_55
+  - first:
+      213: -3836480331996608532
+    second: NES_16x16_TileSet_56
+  - first:
+      213: -8817955324336647042
+    second: NES_16x16_TileSet_57
+  - first:
+      213: 8292484334332491461
+    second: NES_16x16_TileSet_58
+  - first:
+      213: 6641812769181056830
+    second: NES_16x16_TileSet_59
+  - first:
+      213: -7974050223108422533
+    second: NES_16x16_TileSet_60
+  - first:
+      213: -8309102096894820167
+    second: NES_16x16_TileSet_61
+  - first:
+      213: 3172158382705281409
+    second: NES_16x16_TileSet_62
+  - first:
+      213: 8501309502520478
+    second: NES_16x16_TileSet_63
+  - first:
+      213: 1861542347120842723
+    second: NES_16x16_TileSet_64
+  - first:
+      213: 3543260717328547582
+    second: NES_16x16_TileSet_65
+  - first:
+      213: 7187616235436147037
+    second: NES_16x16_TileSet_66
+  - first:
+      213: 3446477546151520095
+    second: NES_16x16_TileSet_67
+  - first:
+      213: 1148129001131593832
+    second: NES_16x16_TileSet_68
+  - first:
+      213: 5284533607827219222
+    second: NES_16x16_TileSet_69
+  - first:
+      213: 3713777931062501640
+    second: NES_16x16_TileSet_70
+  - first:
+      213: 4487556918693286405
+    second: NES_16x16_TileSet_71
+  - first:
+      213: -1271223483858815035
+    second: NES_16x16_TileSet_72
+  - first:
+      213: 749217777002754713
+    second: NES_16x16_TileSet_73
+  - first:
+      213: -4105357142836634574
+    second: NES_16x16_TileSet_74
+  - first:
+      213: -3134311006119246820
+    second: NES_16x16_TileSet_75
+  - first:
+      213: -5079847835103456267
+    second: NES_16x16_TileSet_76
+  - first:
+      213: 4368058592713901128
+    second: NES_16x16_TileSet_77
+  - first:
+      213: -5640006255364429298
+    second: NES_16x16_TileSet_78
+  - first:
+      213: 4794213047027221673
+    second: NES_16x16_TileSet_79
+  - first:
+      213: -6895943044998095503
+    second: NES_16x16_TileSet_80
+  - first:
+      213: -8626369136334272920
+    second: NES_16x16_TileSet_81
+  - first:
+      213: -2216432247258020838
+    second: NES_16x16_TileSet_82
+  - first:
+      213: 1867571923230182336
+    second: NES_16x16_TileSet_83
+  - first:
+      213: 4575712283149832081
+    second: NES_16x16_TileSet_84
+  - first:
+      213: -5213969304405248815
+    second: NES_16x16_TileSet_85
+  - first:
+      213: -6315991243044754587
+    second: NES_16x16_TileSet_86
+  - first:
+      213: 3923115228945185861
+    second: NES_16x16_TileSet_87
+  - first:
+      213: -3497589474874169487
+    second: NES_16x16_TileSet_88
+  - first:
+      213: 5671178652334703514
+    second: NES_16x16_TileSet_89
+  - first:
+      213: 6705564061351245572
+    second: NES_16x16_TileSet_90
+  - first:
+      213: -1291479784385969895
+    second: NES_16x16_TileSet_91
+  - first:
+      213: -298990718192526726
+    second: NES_16x16_TileSet_92
+  - first:
+      213: 1455968906651963222
+    second: NES_16x16_TileSet_93
+  - first:
+      213: -5669962282000964873
+    second: NES_16x16_TileSet_94
+  - first:
+      213: -8094441485749049341
+    second: NES_16x16_TileSet_95
+  - first:
+      213: -9010549160752204305
+    second: NES_16x16_TileSet_96
+  - first:
+      213: 2323577029778002484
+    second: NES_16x16_TileSet_97
+  - first:
+      213: -1749908554627225746
+    second: NES_16x16_TileSet_98
+  - first:
+      213: 1563675181607652505
+    second: NES_16x16_TileSet_99
+  - first:
+      213: 8601259876919536363
+    second: NES_16x16_TileSet_100
+  - first:
+      213: -5345596565479871544
+    second: NES_16x16_TileSet_101
+  - first:
+      213: -1963220197786451013
+    second: NES_16x16_TileSet_102
+  - first:
+      213: -6983528922477503889
+    second: NES_16x16_TileSet_103
+  - first:
+      213: -8435669533019647863
+    second: NES_16x16_TileSet_104
+  - first:
+      213: -5658220416513269046
+    second: NES_16x16_TileSet_105
+  - first:
+      213: -4317299934315878291
+    second: NES_16x16_TileSet_106
+  - first:
+      213: 1769882605188808519
+    second: NES_16x16_TileSet_107
+  - first:
+      213: 5938788283306507397
+    second: NES_16x16_TileSet_108
+  - first:
+      213: -3361208149364438364
+    second: NES_16x16_TileSet_109
+  - first:
+      213: 7101051897843398858
+    second: NES_16x16_TileSet_110
+  - first:
+      213: 2216333306359122511
+    second: NES_16x16_TileSet_111
+  - first:
+      213: 7987556588520708534
+    second: NES_16x16_TileSet_112
+  - first:
+      213: -8131830375617029556
+    second: NES_16x16_TileSet_113
+  - first:
+      213: 6751256888650238711
+    second: NES_16x16_TileSet_114
+  - first:
+      213: -8199501996240390360
+    second: NES_16x16_TileSet_115
+  - first:
+      213: 8022253120886820068
+    second: NES_16x16_TileSet_116
+  - first:
+      213: 1227307984016496155
+    second: NES_16x16_TileSet_117
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NES_16x16_TileSet_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd4897cad99d6c260800000000000000
+      internalID: 7117615532332385500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_16x16_TileSet_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ca601317ad3c12c0800000000000000
+      internalID: -4459621743214957880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_16x16_TileSet_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 407a321762e42a8a0800000000000000
+      internalID: -6295383402096646396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_16x16_TileSet_3
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eafa7bb452de9ec0800000000000000
+      internalID: -3558175394211628318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_16x16_TileSet_4
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e948ee7ef85290710800000000000000
+      internalID: 1659899237664457886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_16x16_TileSet_5
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d31c6d665418d2890800000000000000
+      internalID: -7481181270914449091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_16x16_TileSet_6
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04a23a53136f8d370800000000000000
+      internalID: 8347692600544930368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_16x16_TileSet_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fb090725b3b99220800000000000000
+      internalID: 2493221459351636978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_16x16_TileSet_8
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01714083e9589ee00800000000000000
+      internalID: 1074536900695693072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_16x16_TileSet_9
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79af14e18f1fb4310800000000000000
+      internalID: 1390470957935753879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_16x16_TileSet_10
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd2450c332cd462d0800000000000000
+      internalID: -3286259784184675620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_16x16_TileSet_11
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ee0d1b19c3ba61b0800000000000000
+      internalID: -5662515905140289823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_16x16_TileSet_12
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 458b6d9d8e6160f00800000000000000
+      internalID: 1082577949772134484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_16x16_TileSet_13
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52c6351f809784f40800000000000000
+      internalID: 5712949206634949669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_16x16_TileSet_14
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9023103b9a988b120800000000000000
+      internalID: 2429843360912060937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_16x16_TileSet_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6cf3eb09cbc83da0800000000000000
+      internalID: -5964793642103866257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_16x16_TileSet_16
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d1734c1331f53be0800000000000000
+      internalID: -1498026099211013676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_16x16_TileSet_17
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 485610da2d46225c0800000000000000
+      internalID: -4241717043021126268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_16x16_TileSet_18
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d63140a2c02e425c0800000000000000
+      internalID: -4241016407203769491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_16x16_TileSet_19
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53645cface5564560800000000000000
+      internalID: 7297614721250051637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_16x16_TileSet_20
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae1e28b5040b10450800000000000000
+      internalID: 6053313164622356970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_16x16_TileSet_21
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a04b77d8b19a3fd0800000000000000
+      internalID: -2361414831527214943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_16x16_TileSet_22
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f68e1cf86a7572d80800000000000000
+      internalID: -8275549417381959569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_16x16_TileSet_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 606382d161f8c0ef0800000000000000
+      internalID: -140580163214100986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_16x16_TileSet_24
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7acbede050f501c30800000000000000
+      internalID: 4328063717232000167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_16x16_TileSet_25
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b9d8cc8d963ce980800000000000000
+      internalID: -8508365545709971022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_16x16_TileSet_26
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f335decf4593abd30800000000000000
+      internalID: 4447930619165233983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_16x16_TileSet_27
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45dce22cc79985000800000000000000
+      internalID: 24938559063379284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_16x16_TileSet_28
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f725a4af47c822f50800000000000000
+      internalID: 6855196016854585983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_16x16_TileSet_29
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ed1dafaad26aedc0800000000000000
+      internalID: -3608963459994280480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_16x16_TileSet_30
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13c93967aca053340800000000000000
+      internalID: 4842788838995893297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_16x16_TileSet_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 529a4564787489320800000000000000
+      internalID: 2564878634113607973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_16x16_TileSet_32
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad5f75925294c5310800000000000000
+      internalID: 1395070408534259162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_16x16_TileSet_33
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c835df1d6cf5b00b0800000000000000
+      internalID: -5761405990759214196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_16x16_TileSet_34
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9111c5d2bb4cbc4c0800000000000000
+      internalID: -4266099913804476135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_16x16_TileSet_35
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ed09b959d763fbf0800000000000000
+      internalID: -291775367638086169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_16x16_TileSet_36
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88ee1f253b5c9c1f0800000000000000
+      internalID: -1024070066268672376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_16x16_TileSet_37
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf5e4fdc31e3d3280800000000000000
+      internalID: -9062018620418890245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_16x16_TileSet_38
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c70beb5e90242850800000000000000
+      internalID: 6351237239018293187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_16x16_TileSet_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 633bc73b0d50e2670800000000000000
+      internalID: 8515750339326817078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_16x16_TileSet_40
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1944b6e041cbdf30800000000000000
+      internalID: 4601483928781736222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_16x16_TileSet_41
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5a5e7328484a0db0800000000000000
+      internalID: -4824964576103736740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_16x16_TileSet_42
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afdef2150833dba00800000000000000
+      internalID: 773831337188519418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_16x16_TileSet_43
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 193bb1f01e9c43640800000000000000
+      internalID: 5058890249902207889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_16x16_TileSet_44
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d825e3dad682b70a0800000000000000
+      internalID: -6882863153982582131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_16x16_TileSet_45
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8c315e343da00540800000000000000
+      internalID: 4972164428512443532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_16x16_TileSet_46
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd401a241f92cd370800000000000000
+      internalID: 8348593925419762907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_16x16_TileSet_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dec2751799742fa0800000000000000
+      internalID: -5826398328103711023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_16x16_TileSet_48
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac72d4491c5e2b800800000000000000
+      internalID: 626815917737453514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_16x16_TileSet_49
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5fcf8ac5e855ee60800000000000000
+      internalID: 7990890857807990620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_16x16_TileSet_50
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc9c75e24472d1a60800000000000000
+      internalID: 7646310916133734860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_16x16_TileSet_51
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b0142c4dadfe8820800000000000000
+      internalID: 2922552128958632120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_16x16_TileSet_52
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 589ddb441cea5ce70800000000000000
+      internalID: 9134899564296132997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_16x16_TileSet_53
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 903e866216e28e8c0800000000000000
+      internalID: -3969872076735978743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_16x16_TileSet_54
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13025acfae90f1320800000000000000
+      internalID: 2530752420471185457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_16x16_TileSet_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f288d135f8aa4e160800000000000000
+      internalID: 7053950448920528943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_16x16_TileSet_56
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce7c19fe67512cac0800000000000000
+      internalID: -3836480331996608532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_16x16_TileSet_57
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7456af1a5450a580800000000000000
+      internalID: -8817955324336647042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_16x16_TileSet_58
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c6316d0192d41370800000000000000
+      internalID: 8292484334332491461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_16x16_TileSet_59
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3fb0b316857c2c50800000000000000
+      internalID: 6641812769181056830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_16x16_TileSet_60
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b748f76029b765190800000000000000
+      internalID: -7974050223108422533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_16x16_TileSet_61
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b081289aa320bc80800000000000000
+      internalID: -8309102096894820167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_16x16_TileSet_62
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1890d640e35c50c20800000000000000
+      internalID: 3172158382705281409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_16x16_TileSet_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9cf50d55e33e1000800000000000000
+      internalID: 8501309502520478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_16x16_TileSet_64
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e71c7ed6e685d910800000000000000
+      internalID: 1861542347120842723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_16x16_TileSet_65
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efeb6f279d03c2130800000000000000
+      internalID: 3543260717328547582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_16x16_TileSet_66
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d51800f62ea8fb360800000000000000
+      internalID: 7187616235436147037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_16x16_TileSet_67
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f57a8b8611954df20800000000000000
+      internalID: 3446477546151520095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_16x16_TileSet_68
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 860d5c45e39feef00800000000000000
+      internalID: 1148129001131593832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_16x16_TileSet_69
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 613a722515f665940800000000000000
+      internalID: 5284533607827219222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_16x16_TileSet_70
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8016aa31a5df98330800000000000000
+      internalID: 3713777931062501640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_16x16_TileSet_71
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5025f00dd31074e30800000000000000
+      internalID: 4487556918693286405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_16x16_TileSet_72
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c7f5760af4bb5ee0800000000000000
+      internalID: -1271223483858815035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_16x16_TileSet_73
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99238a14991c56a00800000000000000
+      internalID: 749217777002754713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_16x16_TileSet_74
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23c1c110e67d607c0800000000000000
+      internalID: -4105357142836634574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_16x16_TileSet_75
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c144aa80fb0b084d0800000000000000
+      internalID: -3134311006119246820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_16x16_TileSet_76
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f31f93ee41c089b0800000000000000
+      internalID: -5079847835103456267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_16x16_TileSet_77
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8440ec8a5267e9c30800000000000000
+      internalID: 4368058592713901128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_16x16_TileSet_78
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0aa50a513caab1b0800000000000000
+      internalID: -5640006255364429298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_16x16_TileSet_79
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a4c99d8d57788240800000000000000
+      internalID: 4794213047027221673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_16x16_TileSet_80
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17d109b3650bc40a0800000000000000
+      internalID: -6895943044998095503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_16x16_TileSet_81
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 866076799faf84880800000000000000
+      internalID: -8626369136334272920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_16x16_TileSet_82
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1407714d96ad31e0800000000000000
+      internalID: -2216432247258020838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_16x16_TileSet_83
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cbc0a4f4c2fae910800000000000000
+      internalID: 1867571923230182336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_16x16_TileSet_84
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19f898f0412308f30800000000000000
+      internalID: 4575712283149832081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_16x16_TileSet_85
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d4722dda8244a7b0800000000000000
+      internalID: -5213969304405248815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_16x16_TileSet_86
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56be6d19d671958a0800000000000000
+      internalID: -6315991243044754587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_16x16_TileSet_87
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54cf332e384b17630800000000000000
+      internalID: 3923115228945185861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_16x16_TileSet_88
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 177eaf357e0167fc0800000000000000
+      internalID: -3497589474874169487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_16x16_TileSet_89
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a934036efe214be40800000000000000
+      internalID: 5671178652334703514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_16x16_TileSet_90
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40777777cf2fe0d50800000000000000
+      internalID: 6705564061351245572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_16x16_TileSet_91
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91183198afdb31ee0800000000000000
+      internalID: -1291479784385969895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_16x16_TileSet_92
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7adef2a685c9dbf0800000000000000
+      internalID: -298990718192526726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_16x16_TileSet_93
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65f010da104a43410800000000000000
+      internalID: 1455968906651963222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_16x16_TileSet_94
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f22873685f3051b0800000000000000
+      internalID: -5669962282000964873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_16x16_TileSet_95
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3082ebada54caaf80800000000000000
+      internalID: -8094441485749049341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_16x16_TileSet_96
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe5bb2a374914f280800000000000000
+      internalID: -9010549160752204305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_16x16_TileSet_97
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 432dc2c6ff00f3020800000000000000
+      internalID: 2323577029778002484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_16x16_TileSet_98
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e67e604e07317b7e0800000000000000
+      internalID: -1749908554627225746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_16x16_TileSet_99
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99c81dffa4a43b510800000000000000
+      internalID: 1563675181607652505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_16x16_TileSet_100
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beaeb906940dd5770800000000000000
+      internalID: 8601259876919536363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_16x16_TileSet_101
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cb2602fe30a0d5b0800000000000000
+      internalID: -5345596565479871544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_16x16_TileSet_102
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb30117b1ad31c4e0800000000000000
+      internalID: -1963220197786451013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_16x16_TileSet_103
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6adf010275851f90800000000000000
+      internalID: -6983528922477503889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_16x16_TileSet_104
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98057c9f04b7eea80800000000000000
+      internalID: -8435669533019647863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_16x16_TileSet_105
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac22ddc7286f971b0800000000000000
+      internalID: -5658220416513269046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_16x16_TileSet_106
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d68e842759ed514c0800000000000000
+      internalID: -4317299934315878291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_16x16_TileSet_107
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74ffb682ad2ef8810800000000000000
+      internalID: 1769882605188808519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_16x16_TileSet_108
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58c7cb68a70da6250800000000000000
+      internalID: 5938788283306507397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_16x16_TileSet_109
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aa0cf02ff69a51d0800000000000000
+      internalID: -3361208149364438364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_16x16_TileSet_110
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac8b19ef3110c8260800000000000000
+      internalID: 7101051897843398858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_16x16_TileSet_111
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4a0765466ff1ce10800000000000000
+      internalID: 2216333306359122511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_16x16_TileSet_112
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b99b1ab56089de60800000000000000
+      internalID: 7987556588520708534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_16x16_TileSet_113
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4a9d9f8b5fe52f80800000000000000
+      internalID: -8131830375617029556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_16x16_TileSet_114
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fa086bde5841bd50800000000000000
+      internalID: 6751256888650238711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_16x16_TileSet_115
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8273cf29064853e80800000000000000
+      internalID: -8199501996240390360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_16x16_TileSet_116
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ec4ab0b5b4c45f60800000000000000
+      internalID: 8022253120886820068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_16x16_TileSet_117
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b16dd41eb16480110800000000000000
+      internalID: 1227307984016496155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      NES_16x16_TileSet_30: 4842788838995893297
+      NES_16x16_TileSet_108: 5938788283306507397
+      NES_16x16_TileSet_16: -1498026099211013676
+      NES_16x16_TileSet_28: 6855196016854585983
+      NES_16x16_TileSet_91: -1291479784385969895
+      NES_16x16_TileSet_8: 1074536900695693072
+      NES_16x16_TileSet_41: -4824964576103736740
+      NES_16x16_TileSet_4: 1659899237664457886
+      NES_16x16_TileSet_15: -5964793642103866257
+      NES_16x16_TileSet_78: -5640006255364429298
+      NES_16x16_TileSet_113: -8131830375617029556
+      NES_16x16_TileSet_2: -6295383402096646396
+      NES_16x16_TileSet_92: -298990718192526726
+      NES_16x16_TileSet_32: 1395070408534259162
+      NES_16x16_TileSet_72: -1271223483858815035
+      NES_16x16_TileSet_80: -6895943044998095503
+      NES_16x16_TileSet_47: -5826398328103711023
+      NES_16x16_TileSet_107: 1769882605188808519
+      NES_16x16_TileSet_95: -8094441485749049341
+      NES_16x16_TileSet_53: -3969872076735978743
+      NES_16x16_TileSet_13: 5712949206634949669
+      NES_16x16_TileSet_18: -4241016407203769491
+      NES_16x16_TileSet_3: -3558175394211628318
+      NES_16x16_TileSet_12: 1082577949772134484
+      NES_16x16_TileSet_9: 1390470957935753879
+      NES_16x16_TileSet_52: 9134899564296132997
+      NES_16x16_TileSet_40: 4601483928781736222
+      NES_16x16_TileSet_96: -9010549160752204305
+      NES_16x16_TileSet_65: 3543260717328547582
+      NES_16x16_TileSet_87: 3923115228945185861
+      NES_16x16_TileSet_21: -2361414831527214943
+      NES_16x16_TileSet_114: 6751256888650238711
+      NES_16x16_TileSet_67: 3446477546151520095
+      NES_16x16_TileSet_89: 5671178652334703514
+      NES_16x16_TileSet_103: -6983528922477503889
+      NES_16x16_TileSet_51: 2922552128958632120
+      NES_16x16_TileSet_73: 749217777002754713
+      NES_16x16_TileSet_111: 2216333306359122511
+      NES_16x16_TileSet_19: 7297614721250051637
+      NES_16x16_TileSet_106: -4317299934315878291
+      NES_16x16_TileSet_7: 2493221459351636978
+      NES_16x16_TileSet_14: 2429843360912060937
+      NES_16x16_TileSet_11: -5662515905140289823
+      NES_16x16_TileSet_90: 6705564061351245572
+      NES_16x16_TileSet_45: 4972164428512443532
+      NES_16x16_TileSet_43: 5058890249902207889
+      NES_16x16_TileSet_5: -7481181270914449091
+      NES_16x16_TileSet_6: 8347692600544930368
+      NES_16x16_TileSet_104: -8435669533019647863
+      NES_16x16_TileSet_17: -4241717043021126268
+      NES_16x16_TileSet_101: -5345596565479871544
+      NES_16x16_TileSet_25: -8508365545709971022
+      NES_16x16_TileSet_63: 8501309502520478
+      NES_16x16_TileSet_85: -5213969304405248815
+      NES_16x16_TileSet_31: 2564878634113607973
+      NES_16x16_TileSet_117: 1227307984016496155
+      NES_16x16_TileSet_88: -3497589474874169487
+      NES_16x16_TileSet_37: -9062018620418890245
+      NES_16x16_TileSet_61: -8309102096894820167
+      NES_16x16_TileSet_27: 24938559063379284
+      NES_16x16_TileSet_64: 1861542347120842723
+      NES_16x16_TileSet_46: 8348593925419762907
+      NES_16x16_TileSet_10: -3286259784184675620
+      NES_16x16_TileSet_49: 7990890857807990620
+      NES_16x16_TileSet_1: -4459621743214957880
+      NES_16x16_TileSet_36: -1024070066268672376
+      NES_16x16_TileSet_44: -6882863153982582131
+      NES_16x16_TileSet_50: 7646310916133734860
+      NES_16x16_TileSet_22: -8275549417381959569
+      NES_16x16_TileSet_59: 6641812769181056830
+      NES_16x16_TileSet_56: -3836480331996608532
+      NES_16x16_TileSet_105: -5658220416513269046
+      NES_16x16_TileSet_102: -1963220197786451013
+      NES_16x16_TileSet_75: -3134311006119246820
+      NES_16x16_TileSet_82: -2216432247258020838
+      NES_16x16_TileSet_83: 1867571923230182336
+      NES_16x16_TileSet_97: 2323577029778002484
+      NES_16x16_TileSet_26: 4447930619165233983
+      NES_16x16_TileSet_48: 626815917737453514
+      NES_16x16_TileSet_71: 4487556918693286405
+      NES_16x16_TileSet_70: 3713777931062501640
+      NES_16x16_TileSet_34: -4266099913804476135
+      NES_16x16_TileSet_98: -1749908554627225746
+      NES_16x16_TileSet_24: 4328063717232000167
+      NES_16x16_TileSet_81: -8626369136334272920
+      NES_16x16_TileSet_38: 6351237239018293187
+      NES_16x16_TileSet_0: 7117615532332385500
+      NES_16x16_TileSet_99: 1563675181607652505
+      NES_16x16_TileSet_86: -6315991243044754587
+      NES_16x16_TileSet_76: -5079847835103456267
+      NES_16x16_TileSet_29: -3608963459994280480
+      NES_16x16_TileSet_74: -4105357142836634574
+      NES_16x16_TileSet_62: 3172158382705281409
+      NES_16x16_TileSet_94: -5669962282000964873
+      NES_16x16_TileSet_58: 8292484334332491461
+      NES_16x16_TileSet_112: 7987556588520708534
+      NES_16x16_TileSet_77: 4368058592713901128
+      NES_16x16_TileSet_66: 7187616235436147037
+      NES_16x16_TileSet_35: -291775367638086169
+      NES_16x16_TileSet_20: 6053313164622356970
+      NES_16x16_TileSet_57: -8817955324336647042
+      NES_16x16_TileSet_23: -140580163214100986
+      NES_16x16_TileSet_55: 7053950448920528943
+      NES_16x16_TileSet_110: 7101051897843398858
+      NES_16x16_TileSet_54: 2530752420471185457
+      NES_16x16_TileSet_69: 5284533607827219222
+      NES_16x16_TileSet_109: -3361208149364438364
+      NES_16x16_TileSet_93: 1455968906651963222
+      NES_16x16_TileSet_33: -5761405990759214196
+      NES_16x16_TileSet_116: 8022253120886820068
+      NES_16x16_TileSet_42: 773831337188519418
+      NES_16x16_TileSet_100: 8601259876919536363
+      NES_16x16_TileSet_79: 4794213047027221673
+      NES_16x16_TileSet_60: -7974050223108422533
+      NES_16x16_TileSet_68: 1148129001131593832
+      NES_16x16_TileSet_39: 8515750339326817078
+      NES_16x16_TileSet_115: -8199501996240390360
+      NES_16x16_TileSet_84: 4575712283149832081
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
